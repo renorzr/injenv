@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "es2020",
+    "module": "commonjs",
+    "strict": false,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "declaration": false
+  }
+}
